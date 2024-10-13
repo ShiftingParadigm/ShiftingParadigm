@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/03/a2/b4/03a2b4aef7146f43beb960ac470b08d8.jpg)
+
 <h1 align="center">Hi 👋, I'm Sushant Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://sounter.com/_next/image?url=%2Fimages%2Fprogrammer.gif&w=1920&q=75">
