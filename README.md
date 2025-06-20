@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React,Flask**
+- 🌱 I’m currently learning **MongoDB,Flask**
 
 - 💬 Ask me about **react , gsap , MERN**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/sushant rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sushant rathore" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shifting_paradigm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shifting_paradigm__" height="30" width="40" /></a>
-<a href="**https://leetcode.com/u/bit_terryfing/**" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazy_bugger" height="30" width="40" /></a>
+<a href="**https://leetcode.com/u/Marlboro___/**" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazy_bugger" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/bit_terrifying/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shifting_paradigm__" height="30" width="40" /></a>
 </p>
 
